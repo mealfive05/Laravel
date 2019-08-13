@@ -37,3 +37,5 @@
     cd c:\xampp\htdocs
     composer global require laravel/installer
 
+https://www.tellustek.com/web-design/129-text-marquee跑馬燈
+
